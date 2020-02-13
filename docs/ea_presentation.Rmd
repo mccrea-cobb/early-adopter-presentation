@@ -4,13 +4,6 @@ author:
 date: 
 output: 
   revealjs::revealjs_presentation:
-    theme: default
-    transition: fade
-    self_contained: false
-    reveal_options:
-      slideNumber: true
-      previewLinks: true
-    center: false
     css: "styles.css"
 
 ---
