@@ -1,58 +1,94 @@
 ---
-title: 
-author:
-date: 
-output: 
-  revealjs::revealjs_presentation:
-    css: "styles.css"
-
+title: "Data Management"
+subtitle: 'Early Adopters'
+institute: "Refuge Inventory and Monitoring Program"
+date: "2/28/2020"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    css: xaringan-themer.css
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-## {data-background="images/arctic_village.jpg"}
-<center>
-<h1> Refuge Data Management Early Adopters <h1>
-</center>
 
-## 
-<h1>First off...
+```{r xaringan-themer, include = FALSE}
+library(xaringanthemer)
+mono_light(
+  base_color = "#1c5253",
+  header_font_google = google_font("Josefin Sans"),
+  text_font_google   = google_font("Montserrat", "300", "300i"),
+  code_font_google   = google_font("Droid Mono")
+)
+```
+
+
+background-image: url("images/arctic_village.jpg")
+
+# First off........THANK YOU!!
+
+---
+# A quick overview
+
+.right-column[
+### Some background on data management efforts in the region
+]
+
+
+---
+# A quick overview
+
+.right-column[
+### Some background on data management efforts in the region
+<br>
+### How these efforts relate to you as an **Early Adopter**
+]
+
+---
+# A quick overview
+
+.right-column[
+### Some background on data management efforts in the region
+<br>
+### How these efforts relate to you as an **Early Adopter**
+<br>
+### What to expect
+]
+
+---
+background-image: url("images/fws_dm_movement.jpg")
+background-size: contain
+
+---
+background-image: url("images/early_adopters.png")
+background-size: contain
+
+---
+# **Tools and Guidance for Early Adopters**
+ 
+```{r echo=FALSE, out.width="35%"}
+knitr::include_graphics("images/mdeditor.png")
+```
+
+--
+
+### [Alaska Region ***Interim**** Data Management User Guide](https://ak-region-dst.gitbook.io/alaska-region-interim-data-management-user-guide/)
+
+--
+
+### [Alaska Region ***Interim**** Metadata   Guide](https://ak-region-dst.gitbook.io/alaska-region-mdeditor-interim-user-guide/)
+
+--
+
+### [Early Adopter Microsoft   Team](https://teams.microsoft.com/l/team/19%3a4b44ca0cecc147f287591f25f55a3a6b%40thread.skype/conversations?groupId=f2bccb15-7613-446e-9cd2-ce1cf171f5d5&tenantId=0693b5ba-4b18-4d7b-9341-f32f400a5494)
+
 <br>
 <br>
-***...THANK YOU!***
 
-
-## **Quick overview**
-- Some background on data management efforts in the region
-
-- How these efforts relate to you as an **Early Adopter**
-
-- What to expect
-
-
-## 
-![](images/fws_dm_movement.jpg){width=100%}
-
-
-##
-![](images/early_adopters.png){width=100%}
-
-
-## **Tools and Guidance for Early Adopters**
-<br>
-[![](images/mdeditor.png){width=40%}](https://www.mdeditor.org/)
-
-- [Alaska Region ***Interim**** Data Management User Guide](https://ak-region-dst.gitbook.io/alaska-region-interim-data-management-user-guide/)
-
-- [Alaska Region ***Interim**** Metadata   Guide](https://ak-region-dst.gitbook.io/alaska-region-mdeditor-interim-user-guide/)
-
-- [Early Adopter Microsoft   Team](https://teams.microsoft.com/l/team/19%3a4b44ca0cecc147f287591f25f55a3a6b%40thread.skype/conversations?groupId=f2bccb15-7613-446e-9cd2-ce1cf171f5d5&tenantId=0693b5ba-4b18-4d7b-9341-f32f400a5494)
-
-<br>
-<br>
 <font size="4"> *Your help is needed! </font>
-
-
-
