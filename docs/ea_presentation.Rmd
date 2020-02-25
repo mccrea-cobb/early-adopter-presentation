@@ -1,6 +1,5 @@
 ---
-title: "Data Management"
-subtitle: 'Early Adopters'
+title: "Data Management Early Adopters"
 institute: "Refuge Inventory and Monitoring Program"
 date: "2/28/2020"
 output:
@@ -19,33 +18,47 @@ knitr::opts_chunk$set(echo = FALSE)
 
 
 ```{r xaringan-themer, include = FALSE}
-library(xaringanthemer)
-mono_light(
-  base_color = "#1c5253",
-  header_font_google = google_font("Josefin Sans"),
-  text_font_google   = google_font("Montserrat", "300", "300i"),
-  code_font_google   = google_font("Droid Mono")
-)
+
+# devtools::install_github("gadenbuie/xaringanthemer")
+#library(xaringanthemer)
+# mono_light(
+#   base_color = "#1c5253",
+#   header_font_google = google_font("Josefin Sans"),
+#   text_font_google   = google_font("Montserrat", "300", "300i"),
+#   code_font_google   = google_font("Droid Mono")
+# )
 ```
 
-
 background-image: url("images/arctic_village.jpg")
-
 # First off........THANK YOU!!
 
+???
+- Thank you for stepping up and "volunteering" to be an early adopter of the new process for archiving data in Alaska region. You are leading the way!
+
 ---
 # A quick overview
-
+ 
+ .left-column[
+![](images/data_mgt.png)
+]
+ 
 .right-column[
-### Some background on data management efforts in the region
+### Data management efforts in the region
 ]
 
+???
+This short presentation will provide you all with a short history of data management efforts in the region
+- The reason for giving you this (other than it is quite exciting!) is that you will start to see how your work as an early adopter fit into the larger strategy for data management in Alaska and nationally.
 
 ---
 # A quick overview
 
+.left-column[
+![](images/data_mgt.png)
+]
+
 .right-column[
-### Some background on data management efforts in the region
+### Data management efforts in the region
 <br>
 ### How these efforts relate to you as an **Early Adopter**
 ]
@@ -53,13 +66,21 @@ background-image: url("images/arctic_village.jpg")
 ---
 # A quick overview
 
+.left-column[
+![](images/data_mgt.png)
+]
+
 .right-column[
-### Some background on data management efforts in the region
+### Data management efforts in the region
 <br>
 ### How these efforts relate to you as an **Early Adopter**
 <br>
 ### What to expect
 ]
+
+---
+background-image: url("images/tell_us_about_project.png")
+
 
 ---
 background-image: url("images/fws_dm_movement.jpg")
@@ -70,7 +91,7 @@ background-image: url("images/early_adopters.png")
 background-size: contain
 
 ---
-# **Tools and Guidance for Early Adopters**
+# **Tools and Guidance**
  
 ```{r echo=FALSE, out.width="35%"}
 knitr::include_graphics("images/mdeditor.png")

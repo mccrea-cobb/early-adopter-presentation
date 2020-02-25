@@ -17,11 +17,9 @@
  *
  * ------------------------------------------------------- */
 @import url(https://fonts.googleapis.com/css?family=Montserrat:300,300i);
-@import url(https://fonts.googleapis.com/css?family=Josefin+Sans);
+@import url(https://fonts.googleapis.com/css?family=Amatic+SC);
 @import url(https://fonts.googleapis.com/css?family=Droid+Mono);
-@import url(https://fonts.googleapis.com/css?family=Rock+Salt);
-@import url(https://fonts.googleapis.com/css?family=Beth+Ellen);
-@import url(https://fonts.googleapis.com/css?family=Caveat+Brush);
+
 
 body {
   font-family: Montserrat, 'Palatino Linotype', 'Book Antiqua', Palatino, 'Microsoft YaHei', 'Songti SC', serif;
@@ -29,18 +27,20 @@ body {
   color: #13393A;
 }
 h1, h2, h3 {
-  font-family: Josefin Sans;
+  font-family: Amatic SC;
   font-weight: normal;
   color: #1c5253;
 }
 .remark-slide-content {
   background-color: #E8EDED;
   font-size: 20px;
+  
+  
+  
   padding: 1em 4em 1em 4em;
 }
 .remark-slide-content h1 {
-  font-family: Caveat Brush;
-    font-size: 70px;
+    font-size: 55px;
 }
 .remark-slide-content h2 {
     font-size: 45px;
