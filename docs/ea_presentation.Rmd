@@ -5,11 +5,12 @@ date: "2/28/2020"
 output:
   xaringan::moon_reader:
     lib_dir: libs
-    css: xaringan-themer.css
+    css: ["fonts.css","xaringan-themer.css"]
     nature:
       highlightStyle: github
       highlightLines: true
       countIncrementalSlides: false
+      beforeInit: "macros.js"
 ---
 
 ```{r setup, include=FALSE}
@@ -29,11 +30,13 @@ knitr::opts_chunk$set(echo = FALSE)
 # )
 ```
 
+
 background-image: url("images/arctic_village.jpg")
 # First off........THANK YOU!!
 
 ???
 - Thank you for stepping up and "volunteering" to be an early adopter of the new process for archiving data in Alaska region. You are leading the way!
+
 
 ---
 # A quick overview
@@ -48,7 +51,8 @@ background-image: url("images/arctic_village.jpg")
 
 ???
 This short presentation will provide you all with a short history of data management efforts in the region
-- The reason for giving you this (other than it is quite exciting!) is that you will start to see how your work as an early adopter fit into the larger strategy for data management in Alaska and nationally.
+- The reason for giving you this (other than data management is quite exciting!) is that you will start to see how your work as an early adopter fit into the larger strategy for data management in Alaska and nationally.
+
 
 ---
 # A quick overview
@@ -59,9 +63,13 @@ This short presentation will provide you all with a short history of data manage
 
 .right-column[
 ### Data management efforts in the region
-<br>
 ### How these efforts relate to you as an **Early Adopter**
 ]
+
+???
+The second piece that you might want to know is how data management efforts relate to your efforts as an 
+early adopter.
+
 
 ---
 # A quick overview
@@ -72,23 +80,49 @@ This short presentation will provide you all with a short history of data manage
 
 .right-column[
 ### Data management efforts in the region
-<br>
 ### How these efforts relate to you as an **Early Adopter**
-<br>
-### What to expect
+### What to expect as an *Early Adopter*
 ]
+
+???
+Finally, we will get into what the expectations are of being an early adopter. In other words, what is the next year going to look like?
+
 
 ---
 background-image: url("images/tell_us_about_project.png")
 
+???
+Before we get started though, let take a moment for you to tell the group about who you are and the project that you selected as an Early Adopter.
+
 
 ---
-background-image: url("images/fws_dm_movement.jpg")
-background-size: contain
+# Grassroots
+
+--
+
+.center[![:scale 70%](images/ugly_data.jpg)]
+
+???
+The recent FWS data management movement (if you want to call it that) is rooted in concerns from both leadership and the field. Therefore, you can think of it as both a grassroots effort and a top-down effort. 
+
+
+---
+# Grassroots
+
+.center[![:scale 75%](images/missing_data_plot.png)]
+
+
+---
+# Top-down
+.center[![:scale 85%](images/law.jpg)]
+
+???
+
 
 ---
 background-image: url("images/early_adopters.png")
 background-size: contain
+
 
 ---
 # **Tools and Guidance**
