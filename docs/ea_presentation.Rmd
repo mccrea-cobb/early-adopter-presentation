@@ -161,7 +161,7 @@ Although this recent effort is primarily driven by the bottom-up, the effort is 
 - FWS is currently updating our policy on data management
 
 ---
-# Bad data management effects everybody
+# Bad data management affects everybody
 
 ![:scale 200%](images/lost_data.jpg)
 
