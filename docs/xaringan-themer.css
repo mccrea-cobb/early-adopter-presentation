@@ -157,6 +157,14 @@ table.dataTable.hover tbody tr:hover, table.dataTable.display tbody tr:hover {
   color: #13393A !important;
 }
 
+.red { 
+   color: red; 
+}
+
+.grey {
+   color: grey;
+}
+
 @page { margin: 0; }
 @media print {
   .remark-slide-scaler {

@@ -31,11 +31,19 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 
+.center[![](images/moo.jpg)]
+
+
+---
+
 background-image: url("images/arctic_village.jpg")
 # First off........THANK YOU!!
 
 ???
 - Thank you for stepping up and "volunteering" to be an early adopter of the new process for archiving data in Alaska region. You are leading the way!
+
+---
+# A quick overview
 
 
 ---
@@ -46,11 +54,15 @@ background-image: url("images/arctic_village.jpg")
 ]
  
 .right-column[
-### Data management efforts in the region
+### Quick review of data management efforts in the region
 ]
 
 ???
-This short presentation will provide you all with a short history of data management efforts in the region
+Before Hilmar dives into a short course on how to use mdEditor, Jared and I wanted to give you some background on the data management and the Early Adopter effort. Hopefully this will address most of your concerns and questions about the process. If it doesn't, there will be plenty of time after our presentation for questions and discussion.
+
+**Any questions so far?**
+
+Ok. I will start by giving you a short history of data management efforts in the region
 - The reason for giving you this (other than data management is quite exciting!) is that you will start to see how your work as an early adopter fit into the larger strategy for data management in Alaska and nationally.
 
 
@@ -62,13 +74,12 @@ This short presentation will provide you all with a short history of data manage
 ]
 
 .right-column[
-### Data management efforts in the region
-### How these efforts relate to you as an **Early Adopter**
+### .grey[Quick review of data management efforts in the region]
+### Goals of the **Early Adopter** effort
 ]
 
 ???
-The second piece that you might want to know is how data management efforts relate to your efforts as an 
-early adopter.
+Next, I will talk about the goals of the Early Adopter effort. Why we as a region have decided on doing this and what we hope to get out of it.
 
 
 ---
@@ -79,14 +90,31 @@ early adopter.
 ]
 
 .right-column[
-### Data management efforts in the region
-### How these efforts relate to you as an **Early Adopter**
-### What to expect as an *Early Adopter*
+### .grey[Quick review of data management efforts in the region]
+### .grey[Goals of the Early Adopter effort]
+### How you will benefit
 ]
 
 ???
-Finally, we will get into what the expectations are of being an early adopter. In other words, what is the next year going to look like?
+Next, I will tell you a little about the benefits of being an early adopter and what you will get out of the process.
 
+
+---
+# A quick overview
+
+.left-column[
+![](images/data_mgt.png)
+]
+
+.right-column[
+### .grey[Quick review of data management efforts in the region]
+### .grey[Goals of the Early Adopter effort]
+### .grey[How you will benefit]
+### What to expect
+]
+
+???
+Finally, Jared will describe the expectations of being an Early Adopter. He will walk through the steps in the process and provide you with an understanding of what's to come. 
 
 ---
 background-image: url("images/tell_us_about_project.png")
@@ -96,7 +124,7 @@ Before we get started though, let take a moment for you to tell the group about 
 
 
 ---
-# Grassroots
+# A grassroots effort...
 
 --
 
@@ -107,43 +135,113 @@ The recent FWS data management movement (if you want to call it that) is rooted 
 
 
 ---
-# Grassroots
+# A grassroots effort...
 
 .center[![:scale 75%](images/missing_data_plot.png)]
 
 
 ---
-# Top-down
+# ...Supported by policy and law
 .center[![:scale 85%](images/law.jpg)]
+
+???
+Although this recent effort is primarily driven by the bottom-up, the effort is supported by policies and law. Some of the key data management relavent policies include:
+
+- Laws
+    * **The Freedom of Information Act (1967) ** (Attorney General memo states that "agencies should readily and systematically post information online in advance of any public request" Presidential Memo states "In the face of doubt, openness prevails")
+    * **Open Government Data Act (2019)** ("develops and implements a process to evaluate and improve the timeliness, completeness, consistency, accuracy, usefulness, and availability of open Government data assets;)
+
+- Executive Orders
+    * **Executive Order 12906 Coordinating Geographic Data (1994)** ("each agency shall document all geospatial data that it collects or produces")
+    * **Executive Order 20130509 Making Open and Machine Readable the New Default for Government Information** "...the default state of new and modernized Government information resources shall be open and machine readable."
+
+- Memos    
+    * DOI Memos
+    * **Alaska Region Memo** ("data management is a priority for the Alaska Region" and specifies that it's the responsibility of regional staff for the “Awareness and adherence to the laws and policies that govern and guide data management standards and best practices")
+- FWS is currently updating our policy on data management
+
+---
+# Bad data management effects everybody
+
+![:scale 200%](images/lost_data.jpg)
+
+???
+Ok. We break policy all the time. So what? This doesn’t affect me. Well, poor data management affects everybody. I'm sure that everybody here has experienced the impacts of poor data management?
+
+Here are some examples:
+- Loss of public credibility
+- Wasted time and money
+- Unnecessary exposure to risk
+- Lack of data continuity and loss of a legacy when you leave
+- Loss of funding support
+- ***Uninformed management decisions***
+
+
+---
+# Our goals
+
+--
+
+### Generate data management success stories!
+
+???
+- First, we want to get some examples of success, as we see it, for data management. There are many examples of how poor data management impacts us, but few examples of how we have improved through good data management practices.
+
+--
+
+### Get feedback on the process of documenting data using ![:scale 15%](images/mdeditor.png)
+
+???
+Perhaps most importantly, we are looking for feedback on the **interim** process for documenting and archiving data that you will experience. What worked? What didn't? Were there steps along the way that did not make sense? Are there problems with the guidance or tools?
+
+--
+
+### Provide outreach and education on data management best practices
+
+???
+This experience allows us to prioritize time for developing education and outreach materials related to data management. This is long overdue. Again, we look forward to presenting these to you and other during the April data workflow training and getting your feedback. We hope that you will share the things that you learn as an Early Adopter with your colleagues, and implement them in your other projects!
+
+
+---
+# How you will benefit
+
+[need something here]
+
+???
+Here's some notes.
+
+---
+# Available tools and guidance
+
+--
+
+### [Alaska Region ***Interim***<sup>*</sup> Data Management User Guide](https://ak-region-dst.gitbook.io/alaska-region-interim-data-management-user-guide/)
+
+.footnote[*Your help is needed!]
+
+???
+Our goal is to make sure that you are well supported. There are tools and guidance available to help you, which Hilmar and I shared in some emails to you earlier. 
+
+The first of these is the AK Region Interim Data Management User Guide (that's a mouthfull!). This document is specifically intended to provide guidance for Early Adopters for all the programs. It covers the big picture: integrating project management and data management, definitions of data resources, the four fundamental activites of data management, file organization best practices, and the **Quick Guide**. If you've not already, please take the time to read through it!
+
+--
+
+.center[![:scale 50%](images/mdeditor.png)]
 
 ???
 
 
----
-background-image: url("images/early_adopters.png")
-background-size: contain
+--
 
+### [Alaska Region ***Interim***<sup>*</sup> Metadata Guide ](https://ak-region-dst.gitbook.io/alaska-region-mdeditor-interim-user-guide/)
 
----
-# **Tools and Guidance**
- 
-```{r echo=FALSE, out.width="35%"}
-knitr::include_graphics("images/mdeditor.png")
-```
+.footnote[*Your help is needed! (No..really!)]
+
+???
+
 
 --
 
-### [Alaska Region ***Interim**** Data Management User Guide](https://ak-region-dst.gitbook.io/alaska-region-interim-data-management-user-guide/)
+### [Early Adopter Office365 Team](https://teams.microsoft.com/l/team/19%3a4b44ca0cecc147f287591f25f55a3a6b%40thread.skype/conversations?groupId=f2bccb15-7613-446e-9cd2-ce1cf171f5d5&tenantId=0693b5ba-4b18-4d7b-9341-f32f400a5494)
 
---
-
-### [Alaska Region ***Interim**** Metadata   Guide](https://ak-region-dst.gitbook.io/alaska-region-mdeditor-interim-user-guide/)
-
---
-
-### [Early Adopter Microsoft   Team](https://teams.microsoft.com/l/team/19%3a4b44ca0cecc147f287591f25f55a3a6b%40thread.skype/conversations?groupId=f2bccb15-7613-446e-9cd2-ce1cf171f5d5&tenantId=0693b5ba-4b18-4d7b-9341-f32f400a5494)
-
-<br>
-<br>
-
-<font size="4"> *Your help is needed! </font>
+???
