@@ -56,6 +56,9 @@ This is where we want you to be (maybe not today, but hopefully by the end of yo
 ---
 # What we'll cover today
 
+???
+Before Hilmar dives into a short course on how to use mdEditor, I wanted to give you some background on the data management and the Early Adopter effort. Hopefully this will address most of your concerns and questions about the process. If it doesn't, there will be plenty of time after our presentation for questions and discussion. Feel free to interupt.
+
 --
 
  .left-column[
@@ -67,8 +70,6 @@ This is where we want you to be (maybe not today, but hopefully by the end of yo
 ]
 
 ???
-Before Hilmar dives into a short course on how to use mdEditor, I wanted to give you some background on the data management and the Early Adopter effort. Hopefully this will address most of your concerns and questions about the process. If it doesn't, there will be plenty of time after our presentation for questions and discussion. Feel free to interupt.
-
 Ok. I will start by giving you a short history of data management efforts in the nationally and regionally.
 - The reason for giving you this (other than data management is quite exciting!) is that hopefully this will allow you to see how your work as an early adopter fits into a larger strategy for data management in Alaska and nationally.
 
@@ -143,7 +144,9 @@ Before we get started though, let take a moment for you to tell the group about 
 ???
 The recent FWS data management movement (if you want to call it that) is rooted in concerns from both leadership and the field. Therefore, you can think of it as both a grassroots effort and a top-down effort. 
 
-Much of the motivations for change were driven by the frustrations of data producers and data users. Can you think of a time when finding someone's data has been a challenge?  There has likely been many examples and it's easy to think: why was that person so disorganized? But think about your own work. When is the last time that you're work was interupted (that never happens..right?) and then by the time that you were able to return to what you were doing, you can't remember where the files are? Is you can find the file, perhaps there is some doubt about whether it is the right version? (Was it the "final_final1" or "final_good" excel sheet??). We've all been there. 
+Much of the motivations for change were driven by the frustrations of data producers and data users. Can you think of a time when finding someone's data has been a challenge?  There has likely been many examples and it's easy to think: why was that person so disorganized? 
+
+Now think about your own work. When is the last time that you're work was interupted (that never happens..right?) and then by the time that you were able to return to what you were doing, you can't remember where the files are? Is you can find the file, perhaps there is some doubt about whether it is the right version? (Was it the "final_final1" or "final_good" excel sheet??). We've all been there. 
 
 ---
 class: bottom
@@ -246,36 +249,58 @@ background-size: contain
 ---
 # Data mgt. needs in AK
 
+???
+So how do we get there? There are a number of needs that should be met for us to reach our goals. The team developed clear needs for how to reach these goals. 
+
 --
 ### 1. **Clear descriptions for data management processes and procedures**
 
+???
+- **Clear descriptions for data management processes and procedures**
+    * Guidance needed
+- Develop the data management and mdEditor user guides
+    
 --
 
 ### 2. **Tools necessary for proper data management**
+
+???
+- **Tools necessary for proper data management**
+    * applications for producing and archiving metadata and data
+- Adopted mdEditor for creating and editing metadata
+- Contracted a software developer to customize the application from user feedback.
 
 --
 
 ### 3. **Building knowledge through training and internal capacity**
 
+???
+- **Building knowledge through training and internal capacity**
+    * People need to know how to do it.
+- Have presented on these efforts to Super. Bios and Refuge Managers
+- Developed and delivered a training to the Sup Bios.
+- Workflow training in Apr.
+    
 --
 
 ### 4. Accountability and recognition for data management
 
 ???
-The team developed clear needs for how to reach these goals. 
-
-- **Clear descriptions for data management processes and procedures**
-    * Guidance needed
-- **Tools necessary for proper data management**
-    * applications for producing and archiving metadata and data
-- **Building knowledge through training and internal capacity**
-    * People need to know how to do it.
 - Accountability and recognition for data management
     * Good data management needs to be expected. Great data management should be rewarded.
+- Regional Data Management Champion??
+
+
+---
+background-image: url("images/nerd_champ.jpg")
+background-size: cover
 
 
 ---
 # Our goals for early adopters
+
+???
+Before all this can be rolled out, there need to be some testing...that's where you fit in!
 
 --
 
@@ -329,7 +354,7 @@ This experience allows us to prioritize time for developing education and outrea
 
 
 ---
-# How you will benefit
+# Ok... so what's in it for me??
 
 --
 
@@ -348,82 +373,87 @@ background-image: url("images/unimpressed.gif"
 background-size: cover
 
 
+---
+# Early Adopter 10 Steps
+
+## **1 of 10**
+
+### Read the **Data Management and the Metadata User Guides**
+
+### Complete the **mdEditor tutorial**
+
 
 ---
-# Early Adopter Steps
+# Early Adopter 10 Steps
 
-## **1.**
+## **2 of 10**
 
-### - Read The Data Management and The Metadata User Guides
-
-### - Complete the mdEditor tutorial
+### Create a file directory in the **Regional Data Repository** (submit a form to Hilmar)
 
 ---
-# Early Adopter Steps
+# Early Adopter 10 Steps
 
-## **2.**
+## **3 of 10**
 
-### - Create a file directory in the Regional Data Repository (submit a form to Hilmar)
+### Create **Project Metadata** and **Contacts** in mdEditor
 
----
-# Early Adopter Steps
-
-## **3.**
-
-### - Create project metadata in mdEditor
-
-### - Create your Contacts in mdEditor
 
 ---
-# Early Adopter Steps
+# Early Adopter 10 Steps
 
-## **4.**
+## **4 of 10**
 
-### - "Tidy" your data and save as open format
+### "**Tidy**" your data and save as **open format**
 
-### - Standardize your project directory
+### Standardize your **project directory**
 
----
-# Early Adopter Steps
-
-## **5.**
-
-### - Create your data dictionary in mdEditor
 
 ---
-# Early Adopter Steps
+# Early Adopter 10 Steps
 
-## **6.**
+## **5 of 10**
 
-### - Create metadata for your data products in mdEditor
+### Create your **Data Dictionary** in mdEditor
 
----
-# Early Adopter Steps
-
-## **7.**
-
-### - Submit your data and metadata to the "incoming" folder in your project directory on the Regional Data Repository. 
 
 ---
-# Early Adopter Steps
+# Early Adopter 10 Steps
 
-## **8.**
+## **6 of 10**
 
-### The Data Custodian (Hilmar) reviews (QCs) your data and metadata
-
----
-# Early Adopter Steps
-
-## **9.**
-
-### Data Custodian transfers your data and metadata from the incoming folder into your project directory folder on the Regional Data Repository.
+### Create **Product Metadata** for your datasets in mdEditor
 
 ---
-# Early Adopter Steps
+# Early Adopter 10 Steps
 
-## **10.**
+## **7 of 10**
 
-### Done? (Hint: trick question)
+### Submit your data and metadata to the "**incoming**" folder in your project directory on the **Regional Data Repository**. 
+
+
+---
+# Early Adopter 10 Steps
+
+## **8 of 10**
+
+### The Data Custodian (Hilmar) reviews (**QCs**) your data and metadata
+
+
+---
+# Early Adopter 10 Steps
+
+## **9 of 10**
+
+### The Data Custodian **transfers your data and metadata** from the incoming folder into your project directory folder on the Regional Data Repository.
+
+
+---
+# Early Adopter 10 Steps
+
+## **10 of 10**
+
+### Done? (***Hint*** : trick question)
+
 
 ---
 # Available tools and guidance
