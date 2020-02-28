@@ -219,17 +219,11 @@ background-size: contain
 We started out strong and motivated to change the data world, but we immediately recognized roadblocks. There was not a regional system to archive data. There was not a FWS standard for what should be included in metadata, or even what file format that it should be in. 
 
 ---
-# Goals for Data Management
-
-## Data should be:
-### Documented
-### Secure
-### Discoverable
-### Accessible
-### Timely
+background-image: url("images/criteria.png")
+background-size: contain
 
 ???
-So, we started developing goals ("standards") for data in the region. What does "good" data management look like:
+So, we started developing goals ("criteria") for data in the region. What does "good" data management look like:
 
 - **Documented**: All steps of the data life cycle are recorded in sufficient detail that users can understand and interpret all data and products and reproduce results without additional guidance. 
 - **Secure**: Data, products, and documentation are archived in a manner such that loss is prevented and integrity is maintained. 
