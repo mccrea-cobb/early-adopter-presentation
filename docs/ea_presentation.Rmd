@@ -43,11 +43,15 @@ background-image: url("images/arctic_village.jpg")
 background-image: url("images/stressed.gif")
 background-size: cover
 
+???
+This is probably what you're feeling right now.
 
 ---
 background-image: url("images/swag.gif")
 background-size: cover
 
+???
+This is where we want you to be (maybe not today, but hopefully by the end of your EA experience.)
 
 ---
 # What we'll cover today
@@ -63,9 +67,7 @@ background-size: cover
 ]
 
 ???
-Before Hilmar dives into a short course on how to use mdEditor, Jared and I wanted to give you some background on the data management and the Early Adopter effort. Hopefully this will address most of your concerns and questions about the process. If it doesn't, there will be plenty of time after our presentation for questions and discussion.
-
-**Any questions so far?**
+Before Hilmar dives into a short course on how to use mdEditor, I wanted to give you some background on the data management and the Early Adopter effort. Hopefully this will address most of your concerns and questions about the process. If it doesn't, there will be plenty of time after our presentation for questions and discussion. Feel free to interupt.
 
 Ok. I will start by giving you a short history of data management efforts in the nationally and regionally.
 - The reason for giving you this (other than data management is quite exciting!) is that hopefully this will allow you to see how your work as an early adopter fits into a larger strategy for data management in Alaska and nationally.
@@ -123,14 +125,14 @@ After that, I will touch on the benefits to you of being an early adopter.
 ???
 Finally, I will describe the expectations of being an Early Adopter. I will walk through the steps in the process and provide you with an understanding of what's to come. 
 
-** Any questions?**
+** ANY QUESTIONS?**
 
 
 ---
 background-image: url("images/tell_us_about_project.png")
 
 ???
-Before we get started though, let take a moment for you to tell the group about who you are and the project that you selected as an Early Adopter.
+Before we get started though, let take a moment for you to tell the group about who you are and the project that you selected as an Early Adopter, and maybe why you were interested in being an EA.
 
 
 ---
@@ -159,7 +161,10 @@ background-image: url("images/dilbert3.png")
 background-size: contain 
 
 ???
-Managers face similar frustrations. I know of a recent example of a manager faced with a congressional request for an estimate of the abundance of bird species, needed that day. After a lot of time and effort to contact the biologists, the biologists had to search through their files to find the data and produce an estimate of abundance to send to the manager. The manager forwarded the estimate, only to find out soon after that the estimate was based on the wrong version of the data. This is not only embarassing to everyone involved, it degrades the scientific credibility of the FWS at a time when science is already being questioned at all levels. 
+Managers face similar frustrations. Ideally, managers rely on our data to make informed decisions.
+ This is a challenge in the face of poor data management.
+ 
+ I know of a recent example of a manager faced with a congressional request for an estimate of the abundance of bird species, needed that day. After a lot of time and effort to contact the biologists, the biologists had to search through their files to find the data and produce an estimate of abundance to send to the manager. The manager forwarded the estimate, only to find out soon after that the estimate was based on the wrong version of the data. This is not only embarassing to everyone involved, it degrades the scientific credibility of the FWS at a time when science is already being questioned at all levels. 
 
 Poor data management:
 - Loss of public credibility
@@ -177,7 +182,7 @@ background-size: cover
 # ...supported by law
 
 ???
-Although this recent effort is primarily driven by the bottom-up, proper data management required by policies and law. Some of the key data management relavent policies include:
+Although motivation to improve data management is primarily driven by the bottom-up, proper data management is required by policies and law. There are a number of thesese. Some of the key data management relavent policies for us include:
 
 - Laws
     * **The Freedom of Information Act (1967) ** (Attorney General memo states that "agencies should readily and systematically post information online in advance of any public request" Presidential Memo states "In the face of doubt, openness prevails")
@@ -195,9 +200,13 @@ Although this recent effort is primarily driven by the bottom-up, proper data ma
 ???
 Because of the reasons above, the recognition of importance of DM started to take hold with leaders in our region. 
 
-In 2017, the region finalized our priorities in the Regional Strategic Intent document. **Anybody read it?** If you did, you might remember one of the sex priorities was to "Develop processes that facilitate better availability, sharing, and use of data for decision-making in resource management."
+In 2017, the region finalized our priorities in the Regional Strategic Intent document. 
 
-This coupled with a memo shortly after from the Regional Director to all staff that reiterated the importance of data management. In the memo, he also called for a new **Regional Data Stewardship Team** to come up with a strategy and actions for improving data management in the region. 
+**Anybody read it?** 
+
+If you did, you might remember one of the sex priorities was to "Develop processes that facilitate better availability, sharing, and use of data for decision-making in resource management."
+
+This document was release and then a memo shortly after from the Regional Director to all staff that reiterated the importance of data management. In the memo, he also called for a new **Regional Data Stewardship Team** to come up with a strategy and actions for improving data management in the region. 
 
 
 ---
@@ -207,8 +216,9 @@ background-size: contain
 
 
 ???
-The DST formed in 2018 to tackle the issue of DM in Alaska. Members are from all programs that produce scientific data. Refuges is represented by Hilmar, Jared and me. We have had many long discussions about data, and what needs to happen to get us where we need to be.
+From that, the DST formed in 2018 to tackle the issue of DM in Alaska. Members are from all programs that produce scientific data. Refuges is represented by Hilmar, Jared and me. We have had many long discussions about data, and what needs to happen to get us where we need to be.
 
+We started out strong and motivated to change the data world...
 
 ---
 background-image: url("images/moody_nerd.gif")
@@ -216,15 +226,16 @@ background-size: contain
 
 
 ???
-We started out strong and motivated to change the data world, but we immediately recognized roadblocks. There was not a regional system to archive data. There was not a FWS standard for what should be included in metadata, or even what file format that it should be in. 
+...but we immediately identified serious roadblocks. 
+- There was not a regional system to archive data. 
+- There was not a FWS standard for what should be included in metadata, or even what file format that it should be in. 
 
+So, we started developing goals ("criteria") for data in the region. What does "good" data management look like?
 ---
 background-image: url("images/criteria.png")
 background-size: contain
 
 ???
-So, we started developing goals ("criteria") for data in the region. What does "good" data management look like:
-
 - **Documented**: All steps of the data life cycle are recorded in sufficient detail that users can understand and interpret all data and products and reproduce results without additional guidance. 
 - **Secure**: Data, products, and documentation are archived in a manner such that loss is prevented and integrity is maintained. 
 - **Discoverable**: The data producer and internal and external users can readily find documentation for data products in perpetuity (e.g., metadata record including data location). 
@@ -235,10 +246,20 @@ So, we started developing goals ("criteria") for data in the region. What does "
 ---
 # Data mgt. needs in AK
 
-### **Clear descriptions for data management processes and procedures**
-### **Tools necessary for proper data management**
-### **Building knowledge through training and internal capacity**
-### Accountability and recognition for data management
+--
+### 1. **Clear descriptions for data management processes and procedures**
+
+--
+
+### 2. **Tools necessary for proper data management**
+
+--
+
+### 3. **Building knowledge through training and internal capacity**
+
+--
+
+### 4. Accountability and recognition for data management
 
 ???
 The team developed clear needs for how to reach these goals. 
@@ -254,35 +275,57 @@ The team developed clear needs for how to reach these goals.
 
 
 ---
-# Our goals
+# Our goals for early adopters
 
 --
 
-### Improve the processs and procedures with your feedback
+### 1. Improve the processes and procedures **with your feedback**
 
 ???
 Perhaps most importantly, we are looking for feedback on the **interim** process for documenting and archiving data that you will experience. What worked? What didn't? Were there steps along the way that did not make sense? Are there problems with the guidance or tools?
 
 --
 
-### Improve the tool (mdEditor)
+### 2. Improve the tool (mdEditor) **with your input**
 
 ???
 Get feedback from you on mdEditor and make improvement
 
 --
 
-### Build capacity through outreach and education on data management best practices
+### 3. Build capacity through outreach and education on data management best practices **by getting you fluent in the regional data management effort**
 
 ???
 This experience allows us to prioritize time for developing education and outreach materials related to data management. This is long overdue. Again, we look forward to presenting these to you and other during the April data workflow training and getting your feedback. We hope that you will share the things that you learn as an Early Adopter with your colleagues, and implement them in your other projects!
 
 --
 
-### Generate data management success stories!
+### (Generate data management success stories!)
 
 ???
 - First, we want to get some examples of success, as we see it, for data management. There are many examples of how poor data management impacts us, but few examples of how we have improved through good data management practices.
+
+
+---
+# Tangible results
+
+### - A documented product record (project metadata)
+
+--
+
+### - Documented data (product metadata)
+
+--
+
+### - Tidy data
+
+--
+
+### - A standardized project file directory
+
+--
+
+### - Archived data metadata
 
 
 ---
@@ -305,12 +348,82 @@ background-image: url("images/unimpressed.gif"
 background-size: cover
 
 
+
 ---
 # Early Adopter Steps
 
+## **1.**
 
+### - Read The Data Management and The Metadata User Guides
 
+### - Complete the mdEditor tutorial
 
+---
+# Early Adopter Steps
+
+## **2.**
+
+### - Create a file directory in the Regional Data Repository (submit a form to Hilmar)
+
+---
+# Early Adopter Steps
+
+## **3.**
+
+### - Create project metadata in mdEditor
+
+### - Create your Contacts in mdEditor
+
+---
+# Early Adopter Steps
+
+## **4.**
+
+### - "Tidy" your data and save as open format
+
+### - Standardize your project directory
+
+---
+# Early Adopter Steps
+
+## **5.**
+
+### - Create your data dictionary in mdEditor
+
+---
+# Early Adopter Steps
+
+## **6.**
+
+### - Create metadata for your data products in mdEditor
+
+---
+# Early Adopter Steps
+
+## **7.**
+
+### - Submit your data and metadata to the "incoming" folder in your project directory on the Regional Data Repository. 
+
+---
+# Early Adopter Steps
+
+## **8.**
+
+### The Data Custodian (Hilmar) reviews (QCs) your data and metadata
+
+---
+# Early Adopter Steps
+
+## **9.**
+
+### Data Custodian transfers your data and metadata from the incoming folder into your project directory folder on the Regional Data Repository.
+
+---
+# Early Adopter Steps
+
+## **10.**
+
+### Done? (Hint: trick question)
 
 ---
 # Available tools and guidance
@@ -332,7 +445,6 @@ The first of these is the AK Region Interim Data Management User Guide (that's a
 
 ???
 
-
 --
 
 ### [Alaska Region ***Interim***<sup>*</sup> Metadata Guide ](https://ak-region-dst.gitbook.io/alaska-region-mdeditor-interim-user-guide/)
@@ -348,7 +460,61 @@ The first of these is the AK Region Interim Data Management User Guide (that's a
 
 ???
 
+---
+# Our proposed plan of attack
 
+.pull-left[
+#### Monthly group check-ins
+]
+
+.pull-right[
+![](images/lego.jpg)
+]
+
+---
+# Our proposed plan of attack
+
+.pull-left[
+#### Monthly group check-ins
+
+#### Reach out to us anytime! But, each EA is provided a specific point of contact.
+]
+
+.pull-right[
+![](images/lego.jpg)
+]
+
+---
+# Our proposed plan of attack
+
+.pull-left[
+Monthly group check-ins
+
+Reach out to us anytime! But, each EA is provided a specific point of contact.
+
+#### Try to complete majority of effort before summer field season
+]
+
+.pull-right[
+![](images/lego.jpg)
+]
+
+---
+# Our proposed plan of attack
+
+.pull-left[
+Monthly group check-ins
+
+Reach out to us anytime! But, each EA is provided a specific point of contact.
+
+Try to complete majority of effort before summer field season
+
+#### Completed October
+]
+
+.pull-right[
+![](images/lego.jpg)
+]
 ---
 background-image: url("images/homer.gif")
 background-size: cover
