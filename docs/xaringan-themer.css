@@ -165,6 +165,15 @@ table.dataTable.hover tbody tr:hover, table.dataTable.display tbody tr:hover {
    color: grey;
 }
 
+.center2 {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
 @page { margin: 0; }
 @media print {
   .remark-slide-scaler {

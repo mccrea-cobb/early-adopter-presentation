@@ -31,30 +31,35 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 
-.center[![](images/moo.jpg)]
-
-
----
-
 background-image: url("images/arctic_village.jpg")
+
 # First off........THANK YOU!!
 
 ???
 - Thank you for stepping up and "volunteering" to be an early adopter of the new process for archiving data in Alaska region. You are leading the way!
 
+
 ---
-# A quick overview
+background-image: url("images/stressed.gif")
+background-size: cover
 
 
 ---
-# A quick overview
- 
+background-image: url("images/swag.gif")
+background-size: cover
+
+
+---
+# What we'll cover today
+
+--
+
  .left-column[
 ![](images/data_mgt.png)
 ]
  
 .right-column[
-### Quick review of data management efforts in the region
+### Review data management efforts in the region
 ]
 
 ???
@@ -62,59 +67,64 @@ Before Hilmar dives into a short course on how to use mdEditor, Jared and I want
 
 **Any questions so far?**
 
-Ok. I will start by giving you a short history of data management efforts in the region
-- The reason for giving you this (other than data management is quite exciting!) is that you will start to see how your work as an early adopter fit into the larger strategy for data management in Alaska and nationally.
+Ok. I will start by giving you a short history of data management efforts in the nationally and regionally.
+- The reason for giving you this (other than data management is quite exciting!) is that hopefully this will allow you to see how your work as an early adopter fits into a larger strategy for data management in Alaska and nationally.
 
 
 ---
-# A quick overview
+# What we'll cover today
 
 .left-column[
 ![](images/data_mgt.png)
 ]
 
 .right-column[
-### .grey[Quick review of data management efforts in the region]
+### .grey[Review data management efforts in the region]
 ### Goals of the **Early Adopter** effort
 ]
 
 ???
-Next, I will talk about the goals of the Early Adopter effort. Why we as a region have decided on doing this and what we hope to get out of it.
+Next, I will talk about the goals of this year's Early Adopter effort. 
+- Why we as a region have decided on doing this?
+- What we hope to get out of it?
 
 
 ---
-# A quick overview
+# What we'll cover today
 
 .left-column[
 ![](images/data_mgt.png)
 ]
 
 .right-column[
-### .grey[Quick review of data management efforts in the region]
+### .grey[Review data management efforts in the region]
 ### .grey[Goals of the Early Adopter effort]
 ### How you will benefit
 ]
 
 ???
-Next, I will tell you a little about the benefits of being an early adopter and what you will get out of the process.
+After that, I will touch on the benefits to you of being an early adopter.
 
 
 ---
-# A quick overview
+# What we'll cover today
 
 .left-column[
 ![](images/data_mgt.png)
 ]
 
 .right-column[
-### .grey[Quick review of data management efforts in the region]
+### .grey[Review data management efforts in the region]
 ### .grey[Goals of the Early Adopter effort]
 ### .grey[How you will benefit]
 ### What to expect
 ]
 
 ???
-Finally, Jared will describe the expectations of being an Early Adopter. He will walk through the steps in the process and provide you with an understanding of what's to come. 
+Finally, I will describe the expectations of being an Early Adopter. I will walk through the steps in the process and provide you with an understanding of what's to come. 
+
+** Any questions?**
+
 
 ---
 background-image: url("images/tell_us_about_project.png")
@@ -124,51 +134,34 @@ Before we get started though, let take a moment for you to tell the group about 
 
 
 ---
-# A grassroots effort...
-
--- 
+# Data management in AK, a grassroots effort...
 
 .center[![:scale 70%](images/ugly_data.jpg)]
 
 ???
 The recent FWS data management movement (if you want to call it that) is rooted in concerns from both leadership and the field. Therefore, you can think of it as both a grassroots effort and a top-down effort. 
 
+Much of the motivations for change were driven by the frustrations of data producers and data users. Can you think of a time when finding someone's data has been a challenge?  There has likely been many examples and it's easy to think: why was that person so disorganized? But think about your own work. When is the last time that you're work was interupted (that never happens..right?) and then by the time that you were able to return to what you were doing, you can't remember where the files are? Is you can find the file, perhaps there is some doubt about whether it is the right version? (Was it the "final_final1" or "final_good" excel sheet??). We've all been there. 
 
 ---
-# A grassroots effort...
+class: bottom
 
-.center[![:scale 75%](images/missing_data_plot.png)]
+.center[![:scale 95%](images/missing_data_plot.png)]
 
-
----
-# ...Supported by policy and law
-.center[![:scale 85%](images/law.jpg)]
+Vines et al. 2014. Current Biology, reproduced in Nature
 
 ???
-Although this recent effort is primarily driven by the bottom-up, the effort is supported by policies and law. Some of the key data management relavent policies include:
+I added this to show that its not just us that are struggling with data management issues. A study in 2013 looking at 516 ecology papers published between 1991 and 2011. They contacted authors and, if authors could be found, looked for the data used in the papers. *If authors could be found* (37% response), chance of finding data **declined 17% each year after publication**.
 
-- Laws
-    * **The Freedom of Information Act (1967) ** (Attorney General memo states that "agencies should readily and systematically post information online in advance of any public request" Presidential Memo states "In the face of doubt, openness prevails")
-    * **Open Government Data Act (2019)** ("develops and implements a process to evaluate and improve the timeliness, completeness, consistency, accuracy, usefulness, and availability of open Government data assets;)
-
-- Executive Orders
-    * **Executive Order 12906 Coordinating Geographic Data (1994)** ("each agency shall document all geospatial data that it collects or produces")
-    * **Executive Order 20130509 Making Open and Machine Readable the New Default for Government Information** "...the default state of new and modernized Government information resources shall be open and machine readable."
-
-- Memos    
-    * DOI Memos
-    * **Alaska Region Memo** ("data management is a priority for the Alaska Region" and specifies that it's the responsibility of regional staff for the “Awareness and adherence to the laws and policies that govern and guide data management standards and best practices")
-- FWS is currently updating our policy on data management
 
 ---
-# Bad data management affects everybody
-
-![:scale 200%](images/lost_data.jpg)
+background-image: url("images/dilbert3.png")
+background-size: contain 
 
 ???
-Ok. We break policy all the time. So what? This doesn’t affect me. Well, poor data management affects everybody. I'm sure that everybody here has experienced the impacts of poor data management?
+Managers face similar frustrations. I know of a recent example of a manager faced with a congressional request for an estimate of the abundance of bird species, needed that day. After a lot of time and effort to contact the biologists, the biologists had to search through their files to find the data and produce an estimate of abundance to send to the manager. The manager forwarded the estimate, only to find out soon after that the estimate was based on the wrong version of the data. This is not only embarassing to everyone involved, it degrades the scientific credibility of the FWS at a time when science is already being questioned at all levels. 
 
-Here are some examples:
+Poor data management:
 - Loss of public credibility
 - Wasted time and money
 - Unnecessary exposure to risk
@@ -178,7 +171,117 @@ Here are some examples:
 
 
 ---
+background-image: url("images/law.jpg")
+background-size: cover
+
+# ...supported by law
+
+???
+Although this recent effort is primarily driven by the bottom-up, proper data management required by policies and law. Some of the key data management relavent policies include:
+
+- Laws
+    * **The Freedom of Information Act (1967) ** (Attorney General memo states that "agencies should readily and systematically post information online in advance of any public request" Presidential Memo states "In the face of doubt, openness prevails")
+    * **Open Government Data Act (2019)** ("develops and implements a process to evaluate and improve the timeliness, completeness, consistency, accuracy, usefulness, and availability of open Government data assets;)
+
+- Executive Orders
+    * **Executive Order 12906 Coordinating Geographic Data (1994)** ("each agency shall document all geospatial data that it collects or produces")
+    * **Executive Order 20130509 Making Open and Machine Readable the New Default for Government Information** "...the default state of new and modernized Government information resources shall be open and machine readable."
+
+
+---
+# Data Mgt: A regional priority
+
+![](images/strategic_intent.png)
+???
+Because of the reasons above, the recognition of importance of DM started to take hold with leaders in our region. 
+
+In 2017, the region finalized our priorities in the Regional Strategic Intent document. **Anybody read it?** If you did, you might remember one of the sex priorities was to "Develop processes that facilitate better availability, sharing, and use of data for decision-making in resource management."
+
+This coupled with a memo shortly after from the Regional Director to all staff that reiterated the importance of data management. In the memo, he also called for a new **Regional Data Stewardship Team** to come up with a strategy and actions for improving data management in the region. 
+
+
+---
+background-image: url("images/dst.jpg")
+background-size: contain 
+# Data Nerds (aka "The DST")
+
+
+???
+The DST formed in 2018 to tackle the issue of DM in Alaska. Members are from all programs that produce scientific data. Refuges is represented by Hilmar, Jared and me. We have had many long discussions about data, and what needs to happen to get us where we need to be.
+
+
+---
+background-image: url("images/moody_nerd.gif")
+background-size: contain 
+
+
+???
+We started out strong and motivated to change the data world, but we immediately recognized roadblocks. There was not a regional system to archive data. There was not a FWS standard for what should be included in metadata, or even what file format that it should be in. 
+
+---
+# Goals for Data Management
+
+## Data should be:
+### Documented
+### Secure
+### Discoverable
+### Accessible
+### Timely
+
+???
+So, we started developing goals ("standards") for data in the region. What does "good" data management look like:
+
+- **Documented**: All steps of the data life cycle are recorded in sufficient detail that users can understand and interpret all data and products and reproduce results without additional guidance. 
+- **Secure**: Data, products, and documentation are archived in a manner such that loss is prevented and integrity is maintained. 
+- **Discoverable**: The data producer and internal and external users can readily find documentation for data products in perpetuity (e.g., metadata record including data location). 
+- **Accessible**: Data and products are freely accessible by the data producer and internal and external users.
+- **Timely**: Data will be made discoverable and accessible prior to any specific request for those data.
+
+
+---
+# Data mgt. needs in AK
+
+### **Clear descriptions for data management processes and procedures**
+### **Tools necessary for proper data management**
+### **Building knowledge through training and internal capacity**
+### Accountability and recognition for data management
+
+???
+The team developed clear needs for how to reach these goals. 
+
+- **Clear descriptions for data management processes and procedures**
+    * Guidance needed
+- **Tools necessary for proper data management**
+    * applications for producing and archiving metadata and data
+- **Building knowledge through training and internal capacity**
+    * People need to know how to do it.
+- Accountability and recognition for data management
+    * Good data management needs to be expected. Great data management should be rewarded.
+
+
+---
 # Our goals
+
+--
+
+### Improve the processs and procedures with your feedback
+
+???
+Perhaps most importantly, we are looking for feedback on the **interim** process for documenting and archiving data that you will experience. What worked? What didn't? Were there steps along the way that did not make sense? Are there problems with the guidance or tools?
+
+--
+
+### Improve the tool (mdEditor)
+
+???
+Get feedback from you on mdEditor and make improvement
+
+--
+
+### Build capacity through outreach and education on data management best practices
+
+???
+This experience allows us to prioritize time for developing education and outreach materials related to data management. This is long overdue. Again, we look forward to presenting these to you and other during the April data workflow training and getting your feedback. We hope that you will share the things that you learn as an Early Adopter with your colleagues, and implement them in your other projects!
 
 --
 
@@ -187,28 +290,33 @@ Here are some examples:
 ???
 - First, we want to get some examples of success, as we see it, for data management. There are many examples of how poor data management impacts us, but few examples of how we have improved through good data management practices.
 
---
-
-### Get feedback on the process of documenting data using ![:scale 15%](images/mdeditor.png)
-
-???
-Perhaps most importantly, we are looking for feedback on the **interim** process for documenting and archiving data that you will experience. What worked? What didn't? Were there steps along the way that did not make sense? Are there problems with the guidance or tools?
-
---
-
-### Provide outreach and education on data management best practices
-
-???
-This experience allows us to prioritize time for developing education and outreach materials related to data management. This is long overdue. Again, we look forward to presenting these to you and other during the April data workflow training and getting your feedback. We hope that you will share the things that you learn as an Early Adopter with your colleagues, and implement them in your other projects!
-
 
 ---
 # How you will benefit
 
-[need something here]
+--
 
-???
-Here's some notes.
+## Learn about best practices for data management
+
+--
+
+## Have a project that is completely documented and archived
+
+--
+
+## Know that you are on the cutting edge of FWS data management
+
+---
+background-image: url("images/unimpressed.gif"
+background-size: cover
+
+
+---
+# Early Adopter Steps
+
+
+
+
 
 ---
 # Available tools and guidance
@@ -245,3 +353,12 @@ The first of these is the AK Region Interim Data Management User Guide (that's a
 ### [Early Adopter Office365 Team](https://teams.microsoft.com/l/team/19%3a4b44ca0cecc147f287591f25f55a3a6b%40thread.skype/conversations?groupId=f2bccb15-7613-446e-9cd2-ce1cf171f5d5&tenantId=0693b5ba-4b18-4d7b-9341-f32f400a5494)
 
 ???
+
+
+---
+background-image: url("images/homer.gif")
+background-size: cover
+
+---
+background-image: url("images/swag.gif")
+background-size: cover
